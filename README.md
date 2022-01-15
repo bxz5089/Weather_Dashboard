@@ -16,8 +16,8 @@ SO THAT I can plan a trip accordingly
 
 The following image shows the web application's appearance and functionality:
 
-![Screenshots](#)
-![Screenshots](#)
+![Screenshots](assets/img/ScreenShot1.png)
+![Screenshots](assets/img/ScreenShot2.png)
 
 ### Deployment: 
 
