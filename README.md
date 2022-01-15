@@ -19,12 +19,4 @@ The following image shows the web application's appearance and functionality:
 ![Screenshots](assets/img/ScreenShot1.png)
 ![Screenshots](assets/img/ScreenShot2.png)
 
-### Deployment: 
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository that contains application code.
+### Deployment: https://bxz5089.github.io/Weather_Dashboard/
